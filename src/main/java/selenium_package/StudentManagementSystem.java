@@ -2,7 +2,7 @@ package selenium_package;
 import java.util.Scanner;
 
 class Student {
-    // Attributes of the Student class /Student Management System
+    // Attributes of the Student class
     String firstName;
     String lastName;
     String studentID;
